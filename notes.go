@@ -5,3 +5,19 @@ login = "bugga" ###private variable
 
 var name string = "krishna"
 name := "krishna"  ##valid only inside a method, not valid outside a method..
+
+
+
+####time
+func main() {
+	fmt.Println("welcome")
+	presentTime := time.Now()
+	fmt.Println("presentTime")
+	fmt.Println(presentTime.Format("01-01-2000"))  ###time requires a format 
+
+}
+
+output: 
+welcome
+presentTime
+09-09-2000
