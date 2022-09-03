@@ -18,6 +18,6 @@ func main() {
 }
 
 output: 
-welcome
-presentTime
-09-09-2000
+ welcome
+ presentTime
+ 09-09-2000
