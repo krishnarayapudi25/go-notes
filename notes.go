@@ -21,3 +21,21 @@ output:
  welcome
  presentTime
  09-09-2000
+
+
+### Memory
+Garbage collection is automatic in go.
+
+###Pointers
+
+*points data 
+& points address
+
+
+
+### arrays
+a := [5]int{0,1,2,3,4}
+fmt.Println(a)
+
+
+
