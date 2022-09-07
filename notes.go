@@ -1,5 +1,8 @@
 ###
-No inheritance in gloang
+No inheritance in gloang.
+Printf - "Print Formatter" this function allows you to format numbers, variables and strings into the first string parameter you give it
+Print - "Print" This cannot format anything, it simply takes a string and print it
+Println - "Print Line" same thing as Print() however it will append a newline character \n at the end.
 
 
 
